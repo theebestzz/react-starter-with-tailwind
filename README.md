@@ -1,1 +1,1 @@
-# basic todo-app
+# react-starter-with-tailwindcss
